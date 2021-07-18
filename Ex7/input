@@ -1,0 +1,7 @@
+begin
+	if a<b then
+		x=a*b+c/d;
+	else
+		x=a;
+	endif
+end

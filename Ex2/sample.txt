@@ -1,0 +1,18 @@
+void main()
+{
+int a=12,b;
+char c='a',g='2';
+float d=1.1,e;
+int i=0;
+if(a>b)
+printf ("a is greater");
+else
+printf ("b is greater");
+while(i<10)
+{
+printf("Hi");
+i++;
+}
+}
+//bye
+
